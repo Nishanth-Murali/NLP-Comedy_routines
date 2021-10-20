@@ -31,6 +31,30 @@ Document-Term Matrix - word counts in matrix format
 Problem Statement
 As a reminder, our goal is to look at transcripts of various comedians and note their similarities and differences. Specifically, I'd like to know if Ali Wong's comedy style is different than other comedians, since she's the comedian that got me interested in stand up comedy.
 
+
+When dealing with numerical data, data cleaning often involves removing null values and duplicate data, dealing with outliers, etc. With text data, there are some common data cleaning techniques, which are also known as text pre-processing techniques.
+
+With text data, this cleaning process can go on forever. There's always an exception to every cleaning step. So, we're going to follow the MVP (minimum viable product) approach - start simple and iterate. Here are a bunch of things you can do to clean your data. We're going to execute just the common cleaning steps here and the rest can be done at a later point to improve our results.
+
+## Common data cleaning steps on all text:
+
+Make text all lower case
+Remove punctuation
+Remove numerical values
+Remove common non-sensical text (/n)
+Tokenize text
+Remove stop words
+
+## More data cleaning steps after tokenization:
+
+Stemming / lemmatization
+Parts of speech tagging
+Create bi-grams or tri-grams
+Deal with typos
+
+
+
+
 # Getting The Data
 Luckily, there are wonderful people online that keep track of stand up routine transcripts. Scraps From The Loft makes them available for non-profit and educational purposes.
 
