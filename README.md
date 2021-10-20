@@ -67,3 +67,12 @@ Deal with typos
 Luckily, there are wonderful people online that keep track of stand up routine transcripts. Scraps From The Loft makes them available for non-profit and educational purposes.
 
 To decide which comedians to look into, I went on IMDB and looked specifically at comedy specials that were released in the past 5 years. To narrow it down further, I looked only at those with greater than a 7.5/10 rating and more than 2000 votes. If a comedian had multiple specials that fit those requirements, I would pick the most highly rated one. I ended up with a dozen comedy specials.
+
+
+Exploratory Data Analysis:
+
+Performed a few EDA tasks on the dataset to learn a few things about each comedian and also plotted a few graphs like the ones below to find patterns in their routines;
+
+![image](https://user-images.githubusercontent.com/64389100/138031130-0505a36d-ac72-469b-8765-3d83d8d39615.png)
+
+
