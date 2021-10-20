@@ -13,7 +13,7 @@ Python - gensim, nltk, BeautifulSoup, TextBlob, WordCloud
 
 ● Identified topics in routines lasting 30 minutes using the topic modeling technique, Latent Dirichlet Allocation
 
-● Experimented with Bayesian techniques to generate comedy transcripts similar to the ones given as input the Bayesian model
+● Experimented with Markov Chains to generate comedy transcripts similar to the ones given as input to the Markov model
 
 # DETAILS ABOUT THE PROJECT:
 
