@@ -3,6 +3,8 @@
 Tools used:
 Python - gensim, nltk, BeautifulSoup, TextBlob, WordCloud
 
+# Quick Summary
+
 ● Web-scraped 12 transcripts from websites using BeautifulSoup module in python
 
 ● Cleaned and organized the data into two different formats; corpus, document-term matrix
@@ -13,7 +15,7 @@ Python - gensim, nltk, BeautifulSoup, TextBlob, WordCloud
 
 ● Experimented with Bayesian techniques to generate comedy transcripts similar to the ones given as input the Bayesian model
 
-DETAILS ABOUT THE PROJECT:
+# DETAILS ABOUT THE PROJECT:
 
 # Data Cleaning
 ## Introduction
