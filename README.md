@@ -12,3 +12,26 @@ Python - gensim, nltk, BeautifulSoup
 ● Identified topics in routines lasting 30 minutes using the topic modeling technique, Latent Dirichlet Allocation
 
 ● Experimented with Bayesian techniques to generate comedy transcripts similar to the ones given as input the Bayesian model
+
+DETAILS ABOUT THE PROJECT:
+
+# Data Cleaning
+## Introduction
+This notebook goes through a necessary step of any data science project - data cleaning. Data cleaning is a time consuming and unenjoyable task, yet it's a very important one. Keep in mind, "garbage in, garbage out". Feeding dirty data into a model will give us results that are meaningless.
+
+Specifically, we'll be walking through:
+
+Getting the data - in this case, we'll be scraping data from a website
+Cleaning the data - we will walk through popular text pre-processing techniques
+Organizing the data - we will organize the cleaned data into a way that is easy to input into other algorithms
+The output of this notebook will be clean, organized data in two standard text formats:
+
+Corpus - a collection of text
+Document-Term Matrix - word counts in matrix format
+Problem Statement
+As a reminder, our goal is to look at transcripts of various comedians and note their similarities and differences. Specifically, I'd like to know if Ali Wong's comedy style is different than other comedians, since she's the comedian that got me interested in stand up comedy.
+
+# Getting The Data
+Luckily, there are wonderful people online that keep track of stand up routine transcripts. Scraps From The Loft makes them available for non-profit and educational purposes.
+
+To decide which comedians to look into, I went on IMDB and looked specifically at comedy specials that were released in the past 5 years. To narrow it down further, I looked only at those with greater than a 7.5/10 rating and more than 2000 votes. If a comedian had multiple specials that fit those requirements, I would pick the most highly rated one. I ended up with a dozen comedy specials.
