@@ -39,17 +39,25 @@ With text data, this cleaning process can go on forever. There's always an excep
 ## Common data cleaning steps on all text:
 
 Make text all lower case
+
 Remove punctuation
+
 Remove numerical values
+
 Remove common non-sensical text (/n)
+
 Tokenize text
+
 Remove stop words
 
 ## More data cleaning steps after tokenization:
 
 Stemming / lemmatization
+
 Parts of speech tagging
+
 Create bi-grams or tri-grams
+
 Deal with typos
 
 
