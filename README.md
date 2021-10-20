@@ -75,4 +75,7 @@ Performed a few EDA tasks on the dataset to learn a few things about each comedi
 
 ![image](https://user-images.githubusercontent.com/64389100/138031130-0505a36d-ac72-469b-8765-3d83d8d39615.png)
 
+![image](https://user-images.githubusercontent.com/64389100/138031242-d549c963-acea-4471-8c63-5071b0205acd.png)
+
+
 
