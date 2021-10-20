@@ -10,3 +10,5 @@ Python - gensim, nltk, BeautifulSoup
 ● Analyzed the sentiments using polarity and subjectivity metrics and achieved feedback rating of 84% from the public
 
 ● Identified topics in routines lasting 30 minutes using the topic modeling technique, Latent Dirichlet Allocation
+
+● Experimented with Bayesian techniques to generate comedy transcripts similar to the ones given as input the Bayesian model
