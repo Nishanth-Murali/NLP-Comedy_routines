@@ -1,7 +1,7 @@
 # NLP-Comedy_routines
 
 Tools used:
-Python - gensim, nltk, BeautifulSoup, TextBlob, WordCloud
+Python - gensim, nltk, BeautifulSoup, TextBlob, WordCloud, sklearn
 
 # Quick Summary
 
