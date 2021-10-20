@@ -1,7 +1,7 @@
 # NLP-Comedy_routines
 
 Tools used:
-Python - gensim, nltk, BeautifulSoup
+Python - gensim, nltk, BeautifulSoup, TextBlob, WordCloud
 
 ● Web-scraped 12 transcripts from websites using BeautifulSoup module in python
 
@@ -69,7 +69,7 @@ Luckily, there are wonderful people online that keep track of stand up routine t
 To decide which comedians to look into, I went on IMDB and looked specifically at comedy specials that were released in the past 5 years. To narrow it down further, I looked only at those with greater than a 7.5/10 rating and more than 2000 votes. If a comedian had multiple specials that fit those requirements, I would pick the most highly rated one. I ended up with a dozen comedy specials.
 
 
-Exploratory Data Analysis:
+# Exploratory Data Analysis:
 
 Performed a few EDA tasks on the dataset to learn a few things about each comedian and also plotted a few graphs like the ones below to find patterns in their routines;
 
@@ -77,5 +77,17 @@ Performed a few EDA tasks on the dataset to learn a few things about each comedi
 
 ![image](https://user-images.githubusercontent.com/64389100/138031242-d549c963-acea-4471-8c63-5071b0205acd.png)
 
+
+# Sentiment Analysis
+
+Analyzed the sentiments of each comedian. Used Subjectivity and Polarity metrics to understand their sentiments and also plotted the speech-positivity graphs for each comedian to know their change of the sentiments during a performance
+
+
+![image](https://user-images.githubusercontent.com/64389100/138031622-dbdf851f-99a2-4c6b-90d4-6baa228f1e9e.png)
+
+
+
+
+![image](https://user-images.githubusercontent.com/64389100/138031465-e56c9c34-5a06-4c7d-9311-072ba5683e63.png)
 
 
