@@ -89,6 +89,7 @@ Analyzed the sentiments of each comedian. Used Subjectivity and Polarity metrics
 
 
 ![image](https://user-images.githubusercontent.com/64389100/138031848-aa078206-767d-49c4-a2b1-bba698681cd7.png)
+
 Analysis of positivity flow of a routine
 
 
