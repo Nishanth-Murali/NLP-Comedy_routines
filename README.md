@@ -19,7 +19,7 @@ Python - gensim, nltk, BeautifulSoup, TextBlob, WordCloud, sklearn
 
 # Data Cleaning
 ## Introduction
-This notebook goes through a necessary step of any data science project - data cleaning. Data cleaning is a time consuming and unenjoyable task, yet it's a very important one. Keep in mind, "garbage in, garbage out". Feeding dirty data into a model will give us results that are meaningless.
+This notebook goes through a necessary step of any data science project - data cleaning. Data cleaning is a time consuming task, yet it's a very important one. Keep in mind, "garbage in, garbage out". Feeding dirty data into a model will give us results that are meaningless.
 
 Specifically, we'll be walking through:
 
